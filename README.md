@@ -1,6 +1,7 @@
 
 <img src="https://user-images.githubusercontent.com/69874895/90950872-451b2400-e473-11ea-87e9-8147e9dbde11.gif" object-fit="cover" width="100%">
 <b> Hi There,It's Pritish aka PuRgE-CoDeE!!🖖</b>
+<br>🤖 I'm Computer Science student at Galgotias University.</br>
  <br>🔭 I’m currently working on random projects</br>
  <br>🌱 I’m currently learning</br>
  <br>🕺I’m looking to collaborate on 100 Days of Code </br> 
