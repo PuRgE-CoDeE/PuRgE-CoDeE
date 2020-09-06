@@ -6,7 +6,7 @@
  <br>🌱 I’m currently learning</br>
  <br>🕺I’m looking to collaborate on 100 Days of Code & crack GSoC internship</br> 
 <br>🤔 I’m looking for help with resources </br> 
-⚡Fun Fact:I love Music,Moto GP,24 Hours of Le Mans & NASCAR
+<br>⚡ Fun Fact:I love Music,Moto GP,24 Hours of Le Mans & NASCAR</br>
 
 
 ### Spotify Playing 🎧[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="PuRgE-CoDeE Spotify Playing" width="350" />](https://open.spotify.com/user/31dybr5dv6tbe4eqhumdzzgwy6xu?si=Jb_4_2UsSbiAg8HUOy9Juw) 
