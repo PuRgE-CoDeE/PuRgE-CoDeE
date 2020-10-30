@@ -27,4 +27,4 @@
  ## Stats
 ![](https://komarev.com/ghpvc/?username=PuRgE-CoDeE&color=grey) <p align = "center">
  <img src = "https://github-readme-stats.vercel.app/api?username=PuRgE-CoDeE&show_icons=true&theme=radical&line_height=27">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purge-codee&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purge-codee&layout=compact&theme=tokyonight&hide=python)
