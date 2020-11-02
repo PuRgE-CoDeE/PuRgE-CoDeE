@@ -26,5 +26,5 @@
 </br> [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black">](https://www.instagram.com/purge_codee/)
  ## Stats
 ![](https://komarev.com/ghpvc/?username=PuRgE-CoDeE&color=grey) <p align = "center">
-![Purge-Codee's github stats](https://github-readme-stats.vercel.app/api?username=&count_private=true&include_all_commits=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purge-codee&layout=compact&theme=tokyonight&hide=java)
+![Purge-Codee's github stats](https://github-readme-stats.vercel.app/api?username=purge-codee&count_private=true&include_all_commits=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purge-codee&layout=compact&theme=tokyonight&hide=)
