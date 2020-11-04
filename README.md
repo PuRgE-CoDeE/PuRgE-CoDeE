@@ -27,4 +27,4 @@
  ## Stats
 ![](https://komarev.com/ghpvc/?username=PuRgE-CoDeE&color=grey) <p align = "center">
 ![Purge-Codee's github stats](https://github-readme-stats.vercel.app/api?username=purge-codee&count_private=true&include_all_commits=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purge-codee&layout=compact&theme=tokyonight&hide=&show=java)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purge-codee&layout=compact&theme=tokyonight&hide=&show=java,python,c++)
