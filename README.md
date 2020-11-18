@@ -3,7 +3,7 @@
 <b> Hi There,It's Pritish aka PuRgE-CoDeE!!🖖</b>
 <br>🤖 I'm Computer Science student at Galgotias University</br>
  <br>🔭 I’m currently working on random projects</br>
- <br>🌱 I’m currently learning</br>
+ <br>🌱 Learning new things everyday</br>
  <br>🕺I’m looking to collaborate on 100 Days of Code & crack GSoC internship</br> 
 <br>🤔 I’m looking for help with resources </br> 
 <br>⚡ About Me:I love Music,Moto GP,24 Hours of Le Mans & NASCAR</br>
