@@ -1,4 +1,3 @@
-
 <img src="https://user-images.githubusercontent.com/69874895/90950872-451b2400-e473-11ea-87e9-8147e9dbde11.gif" object-fit="cover" width="100%">
 <b> Hi There,It's Pritish aka PuRgE-CoDeE!!🖖</b>
 <br>🤖 I'm Computer Science student at Galgotias University</br>
@@ -27,4 +26,4 @@
  ## Stats
 ![](https://komarev.com/ghpvc/?username=PuRgE-CoDeE&color=grey) <p align = "center">
 ![Purge-Codee's github stats](https://github-readme-stats.vercel.app/api?username=purge-codee&count_private=true&include_all_commits=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purge-codee&layout=compact&theme=tokyonight&hide=&show=,c++)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purge-codee&layout=compact&theme=tokyonight&hide=&show=python,c++)
